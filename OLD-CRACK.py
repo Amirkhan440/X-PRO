@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from old64 import fuck
+        from dark import dArk
  
-        fuck()
+        dArk()
  
  
  
