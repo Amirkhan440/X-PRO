@@ -24,4 +24,4 @@ git clone https://github.com/MrDarkYT/X-PRO
 
 cd X-PRO
 
-python OLD-CRACK.py
+python Random.py
